@@ -1,13 +1,13 @@
 === diib ===
 Contributors: diibinc
-Tags: analytics, diib, piwik, statistics, traffic, performance, woocommerce, google analytics
+Tags: analytics, diib, piwik, statistics, traffic, performance, woocommerce, google analytics, predictive analytics, statistics, stats, traffic, tracking
 Requires at least: 4.0.0
 Tested up to: 4.3
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-The easiest, most effective way to understand your website's performance. Turn your Google Analytics data into plain English solutions and get 30 day forecasts and a health score right on your dashboard!
+The easiest way to understand your website's performance. Turns your Google Analytics data into simple solutions and even adds 30 day forecasts.
 
 == Description ==
 
@@ -58,9 +58,9 @@ Click here to simplify the way you see your data and join the other
 
 == Screenshots ==
 
-1. Whenever you open your dashboard in WordPress, we show you how your website was doing yesterday. This helps you grow!
+1. Easily check your website's performance just by opening your dashboard and taking a quick look at your WordPress site's Health Score!
 2. Plugin authorizes with your diib account using secure OAuth2 standard over SSL. No need to worry for your credentials and data!
-3. You don't have to remember your website ID from diib. We show you a list from which you can pick the correct one!
+3. You never have to remember your website ID when you are using diib. We will show you a list of all your sites and you can just pick the correct one!
 4. If you already have tracking code installed for your website with 3rd party plugin, you can disable integration here.
 
 == Changelog ==
