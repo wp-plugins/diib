@@ -7,14 +7,14 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-In diib we turn your complex data into simple answers that help you grow!
+The easiest, most effective way to understand your website's performance. Turn your Google Analytics data into plain English solutions and get 30 day forecasts and a health score right on your dashboard!
 
 == Description ==
 
 Get instant clarity into how your WordPress site is performing with diib’s
 Health Score right on your dashboard. Diib also monitors your analytics for
 problems and provides you with 30 day forecasts on key metrics.
-*Free 7 day trial with no CC required.*
+**Free 7 day trial with no CC required.**
 
 > I look at my diib dashboard 10-15 times per day and have watched my online
 > sales and traffic increase at a rate of over 175% year-over-year. Why?
@@ -24,7 +24,7 @@ problems and provides you with 30 day forecasts on key metrics.
 >
 > Tim J., Rainshadowlabs.com
 
-## Let us help you grow your WordPress site
+= Let us help you grow your WordPress site =
 
 Diib is an easy-to-use analytics tool designed make your life easier by
 cutting through all the noise and data that your website generates every day.
@@ -34,7 +34,7 @@ cutting through all the noise and data that your website generates every day.
 * Keeps everything simple so you can spend less time analyzing your raw data
 * Installs in one minute
 
-# Special Features
+= Special Features =
 
 Today’s analytic tools only report how you performed in the past. Diib makes
 a revolutionary leap forward by giving you the power of seeing how the changes
@@ -58,10 +58,10 @@ Click here to simplify the way you see your data and join the other
 
 == Screenshots ==
 
-1. Plugin authorizes with your diib account using secure OAuth2 standard over SSL. No need to worry for your credentials and data!
-2. You don't have to remember your website ID from diib. We show you a list from which you can pick the correct one!
-3. If you already have tracking code installed for your website with 3rd party plugin, you can disable integration here.
-4. Whenever you open your dashboard in WordPress, we show you how your website was doing yesterday. This helps you grow!
+1. Whenever you open your dashboard in WordPress, we show you how your website was doing yesterday. This helps you grow!
+2. Plugin authorizes with your diib account using secure OAuth2 standard over SSL. No need to worry for your credentials and data!
+3. You don't have to remember your website ID from diib. We show you a list from which you can pick the correct one!
+4. If you already have tracking code installed for your website with 3rd party plugin, you can disable integration here.
 
 == Changelog ==
 
