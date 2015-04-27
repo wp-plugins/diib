@@ -1,0 +1,252 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: diib\n"
+"POT-Creation-Date: 2015-04-07 18:07+0100\n"
+"PO-Revision-Date: 2015-04-07 18:07+0100\n"
+"Last-Translator: \n"
+"Language-Team: diib Inc. <feedback@diib.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/class-diib-admin.php:54
+msgid "Health Score by diib"
+msgstr "Health Score by diib"
+
+#: ../admin/class-diib-admin.php:80
+#: ../admin/views/options-page-auth-view.php:44
+msgid "Open Dashboard"
+msgstr "Open Dashboard"
+
+#: ../admin/views/invalid-access-token-notice-view.php:2
+#, php-format
+msgid ""
+"<b>diib:</b> Your access token expired but we could not refresh it using "
+"your previous authorization. Please re-authorize plugin <a href=\"%1$s"
+"\">here</a>."
+msgstr ""
+"<b>diib:</b> Your access token expired but we could not refresh it using "
+"your previous authorization. Please re-authorize plugin <a href=\"%1$s"
+"\">here</a>."
+
+#: ../admin/views/navbar-view.php:4
+msgid "Authorization"
+msgstr "Authorization"
+
+#: ../admin/views/navbar-view.php:5
+msgid "Website Settings"
+msgstr "Website Settings"
+
+#: ../admin/views/navbar-view.php:6
+msgid "Tracking Code Integration"
+msgstr "Tracking Code Integration"
+
+#: ../admin/views/not-authorized-notice-view.php:2
+#, php-format
+msgid ""
+"<b>diib:</b> Please authorize your diib account. You can do it <a href=\"%1$s"
+"\">here</a>."
+msgstr ""
+"<b>diib:</b> Please authorize your diib account. You can do it <a href=\"%1$s"
+"\">here</a>."
+
+#: ../admin/views/options-page-auth-view.php:6
+msgid "See Your Website Grow in Just 7 Days!"
+msgstr "See Your Website Grow in Just 7 Days!"
+
+#: ../admin/views/options-page-auth-view.php:7
+msgid "No Credit Card Required!"
+msgstr "No Credit Card Required!"
+
+#: ../admin/views/options-page-auth-view.php:8
+msgid "Only $9.97/month after the trial period."
+msgstr "Only $9.97/month after the trial period."
+
+#: ../admin/views/options-page-auth-view.php:9
+msgid "Stop feeling like you're in the dark. Get clarity today!"
+msgstr "Stop feeling like you're in the dark. Get clarity today!"
+
+#: ../admin/views/options-page-auth-view.php:21
+msgid "Full Name"
+msgstr "Full Name"
+
+#: ../admin/views/options-page-auth-view.php:25
+#: ../admin/views/options-page-auth-view.php:57
+msgid "Email Address"
+msgstr "Email Address"
+
+#: ../admin/views/options-page-auth-view.php:29
+#: ../admin/views/options-page-auth-view.php:63
+msgid "Password"
+msgstr "Password"
+
+#: ../admin/views/options-page-auth-view.php:33
+msgid "Repeat Password"
+msgstr "Repeat Password"
+
+#: ../admin/views/options-page-auth-view.php:37
+msgid "You have to accept Terms of Service."
+msgstr "You have to accept Terms of Service."
+
+#: ../admin/views/options-page-auth-view.php:38
+#, php-format
+msgid "I accept the <a href=\"%1$s\" target=\"_blank\">Terms of Service</a>"
+msgstr "I accept the <a href=\"%1$s\" target=\"_blank\">Terms of Service</a>"
+
+#: ../admin/views/options-page-auth-view.php:40
+msgid "Sign Up Now!"
+msgstr "Sign Up Now!"
+
+#: ../admin/views/options-page-auth-view.php:43
+#, php-format
+msgid ""
+"Thank you <b>%1$s</b> for giving diib a shot. We have a lot to offer to you. "
+"Instructions were sent to your email address (<b>%2$s</b>) and we encourage "
+"you to open your diib Dashboard (click below) and setup your website. Then "
+"come back to WordPress and finish setting up diib integration!"
+msgstr ""
+"Thank you <b>%1$s</b> for giving diib a shot. We have a lot to offer to you. "
+"Instructions were sent to your email address (<b>%2$s</b>) and we encourage "
+"you to open your diib Dashboard (click below) and setup your website. Then "
+"come back to WordPress and finish setting up diib integration!"
+
+#: ../admin/views/options-page-auth-view.php:49
+#: ../admin/views/options-page-integration-view.php:2
+#: ../admin/views/options-page-website-view.php:2
+msgid "diib Settings"
+msgstr "diib Settings"
+
+#: ../admin/views/options-page-auth-view.php:53
+msgid "Authorize with diib"
+msgstr "Authorize with diib"
+
+#: ../admin/views/options-page-auth-view.php:54
+msgid ""
+"We use client-side OAuth2 authorization. Your email address and password is "
+"not sent via your server."
+msgstr ""
+"We use client-side OAuth2 authorization. Your email address and password is "
+"not sent via your server."
+
+#: ../admin/views/options-page-auth-view.php:67
+msgid "Authenticate Now"
+msgstr "Authenticate Now"
+
+#: ../admin/views/options-page-auth-view.php:67
+msgid "Authorizing"
+msgstr "Authorizing"
+
+#: ../admin/views/options-page-auth-view.php:82
+msgid "Access Token"
+msgstr "Access Token"
+
+#: ../admin/views/options-page-auth-view.php:88
+msgid "Expires On"
+msgstr "Expires On"
+
+#: ../admin/views/options-page-auth-view.php:96
+msgid "Refresh Token"
+msgstr "Refresh Token"
+
+#: ../admin/views/options-page-integration-view.php:12
+msgid "Auto-Tracking"
+msgstr "Auto-Tracking"
+
+#: ../admin/views/options-page-integration-view.php:15
+msgid "Enable automatic tracking of users activities"
+msgstr "Enable automatic tracking of users activities"
+
+#: ../admin/views/options-page-integration-view.php:17
+msgid ""
+"You don't need to enable this if you are using a 3rd party analytics plugin "
+"or have inserted your tracking code on your own. <b>We encourage you to "
+"enable automatic tracking for Diib Tracker.</b>"
+msgstr ""
+"You don't need to enable this if you are using a 3rd party analytics plugin "
+"or have inserted your tracking code on your own. <b>We encourage you to "
+"enable automatic tracking for Diib Tracker.</b>"
+
+#: ../admin/views/options-page-integration-view.php:22
+msgid "eCommerce"
+msgstr "eCommerce"
+
+#: ../admin/views/options-page-integration-view.php:25
+msgid "Enable WooCommerce integration"
+msgstr "Enable WooCommerce integration"
+
+#: ../admin/views/options-page-integration-view.php:26
+msgid ""
+"You don't need to enable this if you are using a 3rd party WooCommerce "
+"analytics plugin. <b>We encourage you to enable WooCommerce integration in "
+"case you use Diib Tracker with this website.</b>"
+msgstr ""
+"You don't need to enable this if you are using a 3rd party WooCommerce "
+"analytics plugin. <b>We encourage you to enable WooCommerce integration in "
+"case you use Diib Tracker with this website.</b>"
+
+#: ../admin/views/options-page-integration-view.php:28
+#, php-format
+msgid ""
+"Install <a href=\"%1$s\">WooCommerce</a> to get automatic eCommerce activity "
+"tracking"
+msgstr ""
+"Install <a href=\"%1$s\">WooCommerce</a> to get automatic eCommerce activity "
+"tracking"
+
+#: ../admin/views/options-page-integration-view.php:34
+msgid "Tracker Type"
+msgstr "Tracker Type"
+
+#: ../admin/views/options-page-integration-view.php:40
+msgid "Cached Tracking Code"
+msgstr "Cached Tracking Code"
+
+#: ../admin/views/options-page-integration-view.php:49
+msgid "Invalidate Tracking Code Cache"
+msgstr "Invalidate Tracking Code Cache"
+
+#: ../admin/views/options-page-website-view.php:12
+msgid "Website"
+msgstr "Website"
+
+#: ../admin/views/options-page-website-view.php:14
+msgid "Please select the corresponding website from your diib profile"
+msgstr "Please select the corresponding website from your diib profile"
+
+#: ../includes/class-diib-trackingcode-ga-integrator.php:44
+#: ../includes/class-diib-trackingcode-ga-integrator.php:55
+msgid "Products"
+msgstr "Products"
+
+#: ../includes/class-diib-trackingcode-ga-integrator.php:45
+#: ../includes/class-diib-trackingcode-ga-integrator.php:56
+msgid "Add to Cart"
+msgstr "Add to Cart"
+
+#: ../includes/class-diib-trackingcode-ga-integrator.php:46
+#, php-format
+msgid "SKU: %1$s"
+msgstr "SKU: %1$s"
+
+#: ../includes/class-diib-utils.php:38
+msgid "Diib Tracker"
+msgstr "Diib Tracker"
+
+#: ../includes/class-diib-utils.php:40
+msgid "Self-Hosted Piwik"
+msgstr "Self-Hosted Piwik"
+
+#: ../includes/class-diib-utils.php:42
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: ../includes/class-diib-utils.php:44
+msgid "Unknown Tracker"
+msgstr "Unknown Tracker"
